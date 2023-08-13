@@ -1,3 +1,3 @@
 СТАТУС СБОРКИ 
 
->[![Build status](https://ci.appveyor.com/api/projects/status/jl70hdrhuk0f3mw8/branch/main?svg=true)](https://ci.appveyor.com/project/Kozyavin/testingapici/branch/main)
+>[![Build status](https://ci.appveyor.com/api/projects/status/o23rv5y0pa7u9sef/branch/main?svg=true)](https://ci.appveyor.com/project/Kozyavin/testingapicipostman/branch/main)

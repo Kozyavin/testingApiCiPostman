@@ -1,4 +1,4 @@
-package ru.netology.rest;
+package ru.netology;
 
 import io.restassured.http.ContentType;
 import org.hamcrest.Matchers;
